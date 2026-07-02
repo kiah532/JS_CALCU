@@ -14,7 +14,7 @@ body{
 }
 label{
     display:block;
-    margin: bottom 10px;px;
+    margin: bottom 10px; 
     color:#0f0e0e;
 }
 .input-group{
@@ -26,6 +26,5 @@ input[type="text"]{
 }
 h1{
     color:#0f0d0d;
-    margin-bottom:
-
+    margin-bottom: 20px;
 }
